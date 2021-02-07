@@ -1,4 +1,3 @@
-
 const searchButton = document.getElementById('search');
 searchButton.addEventListener('click', () => {
     const customerInput = document.getElementById('customerInput');
